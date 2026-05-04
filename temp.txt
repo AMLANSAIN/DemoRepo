@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "Maa ka bhosda aag"
+echo "another new text"
