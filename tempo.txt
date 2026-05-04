@@ -1,0 +1,10 @@
+-> lsblk
+-> mkfs -t ext4 /dev/xvd4
+-> mkdir /data
+-> mount /dev/xvd4 /data
+
+
+
+-> Normally Mount : -> 
+dnf install -y nfs-utils
+mount -t nfs4 <endpoint:/> </efs>
