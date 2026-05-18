@@ -1,0 +1,1 @@
+docker image inspect redhat/ubi10-init:latest-source
